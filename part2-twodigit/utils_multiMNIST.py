@@ -2,7 +2,7 @@ import gzip, _pickle, numpy as np
 import os
 
 # print(os.path.dirname(os.path.abspath(__file__)))
-win_temp_dir = 'MIT_class/Machine_Learning_with_Python/project2/mnist/Datasets'
+win_temp_dir = 'Datasets'
 
 
 num_classes = 10

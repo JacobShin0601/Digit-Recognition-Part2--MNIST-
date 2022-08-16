@@ -5,7 +5,7 @@ import torch.nn.functional as F
 from train_utils import batchify_data, run_epoch, train_model, Flatten
 import utils_multiMNIST as U
 # path_to_data_dir = '../Datasets/'
-path_to_data_dir = 'MIT_class/Machine_Learning_with_Python/project2/mnist/Datasets/'
+path_to_data_dir = 'Datasets/'
 use_mini_dataset = True
 
 batch_size = 64
